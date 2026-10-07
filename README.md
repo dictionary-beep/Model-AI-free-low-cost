@@ -24,15 +24,11 @@
 
 ---
 
-### 💻 Quickstart Code Example (cURL)
+## 🔗 Official Links & Community Join
 
-Connect seamlessly using standard OpenAI-compatible API endpoints:
+* 🌐 **Launch Platform & Claim Free Credits:** [https://proxy.bluejeansit.com/](https://proxy.bluejeansit.com/)
+* 💬 **Community & Support Group (Telegram):** [https://t.me/+meR34pCEsdxhZjI1](https://t.me/+meR34pCEsdxhZjI1)
 
-```bash
-curl [https://proxy.bluejeansit.com/v1/chat/completions](https://proxy.bluejeansit.com/v1/chat/completions) \
-  -H "Authorization: Bearer YOUR_API_KEY" \
-  -H "Content-Type: application/json" \
-  -d '{
-    "model": "claude-opus-5.5",
-    "messages": [{"role": "user", "content": "Hello, Antigravity AI!"}]
-  }'
+---
+
+💡 *Have you tested their API response times or Agent Flight Deck yet? Feel free to star this repo or share your feedback!*
