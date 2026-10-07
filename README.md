@@ -1,23 +1,38 @@
-# Model-AI-free-low-cost
-A curated list and gateway resources for free and low-cost AI models, APIs, and tools for developers.
-# 🚀 Free AI Gateway Access for Developers: Get $0.50 Free Credits (~5M Tokens)
+# 🚀 Model AI Free & Low-Cost Resources
 
-Hey everyone! 👋
-
-I wanted to share a great resource for developers, builders, and anyone experimenting with AI models and APIs: **Antigravity AI Gateway** (Butterfly AI Gateway).
-
-It’s a unified AI gateway platform providing ultra-fast, low-latency API access to 25+ top-tier models — including Claude models, Gemini models, GPT-OSS, and their own Antigravity Swarm, all in one dashboard.
-
-### 🌟 Key Highlights & Welcome Offer
-* **$0.50 FREE Welcome Credits**: Claim up to **~5,000,000 Flash tokens** (or ~165k Sonnet tokens) upon registering your account.
-* **No Time Limit**: The free credits don't expire quickly, so you can claim them now and test/build whenever you are ready.
-* **1-Click Verification**: Easy and straightforward onboarding via Telegram.
-* **Developer Suite**: Features 1-Click IDE Setup, Interactive Playground, Autonomous Agent Workflows (LSP Bug Hunter, Web Crawlers, Swarm agents), and Sub-300ms latency routing.
+> A curated list and gateway resources for free and low-cost AI models, APIs, and developer tools.
 
 ---
 
-### 🔗 Get Started & Community
-* 🌐 **Launch Platform & Claim Credits:** https://proxy.bluejeansit.com/
-* 💬 **Community & Support Group:** https://t.me/+meR34pCEsdxhZjI1
+## ⚡ Featured: Antigravity AI Gateway (Butterfly AI)
 
-Feel free to check it out! Has anyone else benchmarked their API response times or tested their Agent Flight Deck yet? Would love to hear your thoughts and feedback!
+> 🎁 **Welcome Offer:** Claim **$0.50 FREE Credits** (~5,000,000 Flash tokens or ~165k Sonnet tokens) with **no expiration date**!
+
+**Antigravity AI Gateway** is a unified platform providing ultra-fast, low-latency API access to **25+ top-tier AI models** all in one dashboard.
+
+---
+
+### 🌟 Key Highlights & Features
+
+| Feature | Details & Description |
+| :--- | :--- |
+| ⚡ **Ultra-Low Latency** | Sub-300ms response time with high-bandwidth pipeline routing |
+| 🤖 **25+ AI Models** | Claude Opus 5.5, Gemini 3.8, GPT-OSS & Antigravity Swarm |
+| 💻 **Developer Suite** | 1-Click IDE Setup, Interactive Playground & Logs |
+| 🛠️ **Agent Workflows** | LSP Bug Hunter, CDP Web Crawlers & Triad Swarm Agents |
+| 🔓 **Zero KYC** | Quick 1-click Telegram verification & instant trial |
+
+---
+
+### 💻 Quickstart Code Example (cURL)
+
+Connect seamlessly using standard OpenAI-compatible API endpoints:
+
+```bash
+curl [https://proxy.bluejeansit.com/v1/chat/completions](https://proxy.bluejeansit.com/v1/chat/completions) \
+  -H "Authorization: Bearer YOUR_API_KEY" \
+  -H "Content-Type: application/json" \
+  -d '{
+    "model": "claude-opus-5.5",
+    "messages": [{"role": "user", "content": "Hello, Antigravity AI!"}]
+  }'
