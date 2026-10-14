@@ -26,7 +26,7 @@
 
 ## 🔗 Official Links & Community Join
 
-- 🌐 **Launch Platform & Claim Free Credits:** [https://proxy.bluejeansit.com/](https://proxy.bluejeansit.com/)
+- 🌐 **Launch Platform & Claim Free Credits:** https://reserve-liquid-shark-flows.trycloudflare.com/key
 - 💬 **Community & Support Group (Telegram):** [https://t.me/+meR34pCEsdxhZjI1](https://t.me/+meR34pCEsdxhZjI1)
 
 ---
