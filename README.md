@@ -26,7 +26,7 @@
 
 ## 🔗 Official Links & Community Join
 
-- 🌐 **Launch Platform & Claim Free Credits:** https://reserve-liquid-shark-flows.trycloudflare.com/key
+- 🌐 **Launch Platform & Claim Free Credits:** https://irrevocably-explanate-catrina.ngrok-free.dev/key
 - 💬 **Community & Support Group (Telegram):** [https://t.me/+meR34pCEsdxhZjI1](https://t.me/+meR34pCEsdxhZjI1)
 
 ---
